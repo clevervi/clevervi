@@ -128,6 +128,6 @@ E --> E4[Netlify]
 
 <div align="center">
 
-⭐️ **From [Your Name](https://github.com/TU_USUARIO)** - *Transforming ideas into digital reality*
+⭐️ **From [Your Name](https://github.com/clevervi)** - *Transforming ideas into digital reality*
 
 </div>
