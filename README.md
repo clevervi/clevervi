@@ -6,8 +6,8 @@
 
 **Building Scalable Solutions with Modern Tech Stack**
 
-[![Visitors](https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/TU_USUARIO)
-[![Repositories](https://badges.pufler.dev/repos/TU_USUARIO?color=blue&style=flat)](https://github.com/TU_USUARIO?tab=repositories)
+[![Visitors](https://komarev.com/ghpvc/?username=clevervi&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/clevervi)
+[![Repositories](https://badges.pufler.dev/repos/clevervi?color=blue&style=flat)](https://github.com/clevervi?tab=repositories)
 
 </div>
 
@@ -42,12 +42,12 @@ graph TD
 
 <div align="center">
 
-| ![Detailed GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&hide_border=true&hide_title=true) | ![Language Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=algolia&hide_border=true&langs_count=8&hide_title=true) |
+| ![Detailed GitHub Stats](https://github-readme-stats.vercel.app/api?username=clevervi&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&hide_border=true&hide_title=true) | ![Language Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=clevervi&layout=compact&theme=algolia&hide_border=true&langs_count=8&hide_title=true) |
 |:---:|:---:|
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=clevervi&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&hide_border=true&area=true&hide_title=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=clevervi&theme=react-dark&hide_border=true&area=true&hide_title=true)
 
 </div>
 
@@ -130,9 +130,9 @@ Tech: Docker + Kubernetes + GraphQL + Redis + AWS
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "clevervi"
         self.role = "Full-Stack Developer & Data Scientist"
-        self.location = "Your Location"
+        self.location = "Unknown"
         self.passion = "Building innovative solutions"
     
     def current_focus(self):
@@ -150,7 +150,7 @@ me = Developer()
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=clevervi&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Let's Collaborate
 
@@ -169,9 +169,9 @@ me = Developer()
 
 ### **🚀 "Code is poetry, data tells the story"**
 
-⭐️ **From [Your Name](https://github.com/TU_USUARIO)** 
+⭐️ **From [clevervi](https://github.com/clevervi)** 
 
-[![GitHub Follow](https://img.shields.io/github/followers/TU_USUARIO?label=Follow&style=social)](https://github.com/TU_USUARIO)
+[![GitHub Follow](https://img.shields.io/github/followers/TU_USUARIO?label=Follow&style=social)](https://github.com/clevervi)
 
 </div>
 
