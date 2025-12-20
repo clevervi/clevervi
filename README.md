@@ -7,8 +7,8 @@
 ## **Engineering Scalable Systems at the Intersection of Code & Data**
 
 [![Visitors](https://komarev.com/ghpvc/?username=clevervi&label=Profile%20Views&color=0066ff&style=for-the-badge)](https://github.com/clevervi)
-[![Years Coding](https://badges.pufler.dev/years/clevervi?color=blue&style=for-the-badge)](https://github.com/clevervi)
-[![Commits](https://badges.pufler.dev/commits/monthly/clevervi?color=blue&style=for-the-badge)](https://github.com/clevervi)
+[![Years Coding](https://badges.pufler.dev/years/clevervi?color=blue&style=flat)](https://github.com/clevervi)
+[![Commits](https://badges.pufler.dev/commits/monthly/clevervi?color=blue&style=flat)](https://github.com/clevervi)
 
 🔬 **Transforming complex problems into elegant solutions**  
 ⚡ **Specializing in high-performance applications & intelligent systems**
@@ -21,15 +21,31 @@
 
 ### **Full-Stack Engineering Spectrum**
 ```mermaid
-quadrantChart
-    title "Technical Proficiency Matrix"
-    x-axis "Development Speed" --> "Production Ready"
-    y-axis "Business Value" --> "Technical Innovation"
-    "React/TypeScript": [0.8, 0.9]
-    "Node.js/Python": [0.9, 0.8]
-    "AWS Cloud": [0.7, 0.6]
-    "Machine Learning": [0.6, 0.9]
-    "Docker/K8s": [0.8, 0.7]
+graph TD
+    A[Technical Stack] --> B[Frontend Layer]
+    A --> C[Backend Layer]
+    A --> D[Data Layer]
+    A --> E[Infrastructure Layer]
+    
+    B --> B1[React.js]
+    B --> B2[TypeScript]
+    B --> B3[Next.js]
+    B --> B4[Tailwind CSS]
+    
+    C --> C1[Node.js]
+    C --> C2[Python]
+    C --> C3[FastAPI]
+    C --> C4[GraphQL]
+    
+    D --> D1[TensorFlow]
+    D --> D2[PostgreSQL]
+    D --> D3[Apache Spark]
+    D --> D4[Redis]
+    
+    E --> E1[Docker]
+    E --> E2[Kubernetes]
+    E --> E3[AWS]
+    E --> E4[GitHub Actions]
 ```
 
 ### **Core Technology Stack**
@@ -81,7 +97,7 @@ impact:
   - 99.9% system availability
   - 5x faster data processing
 ```
-**🔗 [Live Demo](https://) | 📚 [Case Study](https://)**
+**🔗 [Live Demo](https://github.com/clevervi) | 📚 [Case Study](https://github.com/clevervi)**
 
 ### **📊 Quantum Analytics | Real-Time Business Intelligence**
 > *Advanced data visualization & predictive analytics suite*
@@ -97,7 +113,7 @@ metrics:
   - <100ms query response time
   - 95% prediction accuracy
 ```
-**🚀 [API Documentation](https://) | 📈 [Demo Dashboard](https://)**
+**🚀 [API Documentation](https://github.com/clevervi) | 📈 [Demo Dashboard](https://github.com/clevervi)**
 
 ### **⚡ Helix Framework | Developer Toolkit**
 > *Open-source tools for rapid full-stack development*
@@ -112,7 +128,7 @@ adoption:
   - 50+ contributing developers
   - 20+ production deployments
 ```
-**⭐ [GitHub Repository](https://github.com/clevervi/) | 📦 [NPM Package](https://)**
+**⭐ [GitHub Repository](https://github.com/clevervi) | 📦 [NPM Package](https://github.com/clevervi)**
 
 ---
 
@@ -143,7 +159,7 @@ class EngineeringPhilosophy:
 ### **Certifications & Continuous Learning**
 ![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![React Certified](https://img.shields.io/badge/React_Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Expert](https://img.shields.io/badge/React_Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python Specialist](https://img.shields.io/badge/Python_Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
@@ -166,26 +182,29 @@ class EngineeringPhilosophy:
 
 ### **Open Source Contributions**
 ```mermaid
-timeline
-    title Open Source Journey
-    section 2024
-        Q1 : Led React Component Library
-            400+ stars, 50+ contributors
-    section 2023
-        Q4 : Auth0 Alternative
-            Security-focused authentication
-        Q2 : Data Visualization Tools
-            Used by 100+ companies
+graph LR
+    A[Open Source Journey] --> B[React Libraries]
+    A --> C[Tools & Utilities]
+    A --> D[Learning Resources]
+    
+    B --> B1[400+ Stars]
+    B --> B2[50+ Contributors]
+    
+    C --> C1[Security Tools]
+    C --> C2[Dev Tools]
+    
+    D --> D1[Tutorials]
+    D --> D2[Code Examples]
 ```
 
 ### **Let's Build Something Remarkable**
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://github.com/clevervi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Technical Blog](https://img.shields.io/badge/Technical_Blog-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/your-blog)
 [![Email](https://img.shields.io/badge/Email-172B4D?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:your.email@example.com)
-[![Calendly](https://img.shields.io/badge/Schedule_Meeting-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/your-calendar)
+[![Calendly](https://img.shields.io/badge/Schedule_Meeting-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com)
 
 </div>
 
@@ -198,9 +217,9 @@ timeline
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=clevervi&theme=matrix&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Featured in:**  
-![HackerRank](https://img.shields.io/badge/HackerRank_Top_1%-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank_Top_1%25-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow_Contributor-F58025?style=flat-square&logo=stackoverflow&logoColor=white)
-![GitHub Stars](https://img.shields.io/badge/10k+_GitHub_Stars-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Stars](https://img.shields.io/badge/10k%2B_GitHub_Stars-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
@@ -210,29 +229,28 @@ timeline
 
 ## **💡 Innovation Philosophy**
 
-> *"We don't just write code; we architect solutions that scale, 
-> analyze data that informs, and build systems that endure."*
+> *"We don't just write code; we architect solutions that scale, analyze data that informs, and build systems that endure."*
 
 ### **Current Focus Areas**
 ```rust
+// Emerging technologies and research interests
 enum FocusArea {
     EdgeComputing,
     MachineLearningOps,
-    QuantumReadyAlgorithms,
     SustainableTech,
-    DeveloperExperience
+    DeveloperExperience,
+    RealTimeSystems
 }
 ```
 
 **🚀 Always pushing the boundaries of what's possible with technology**
 
-📬 **Open to:** Strategic roles in tech leadership, innovative startup collaborations, 
-and challenging research projects at the intersection of software and data science.
+📬 **Open to:** Strategic roles in tech leadership, innovative startup collaborations, and challenging research projects at the intersection of software and data science.
 
 ⭐ **Star my work if you find it valuable!**  
 [![GitHub Follow](https://img.shields.io/github/followers/clevervi?label=Follow%20for%20tech%20insights&style=social)](https://github.com/clevervi)
 
-*Last Updated: $(date +%B' '%Y)*
+*Last Updated: December 2024*
 
 </div>
 ```
