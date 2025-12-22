@@ -270,7 +270,7 @@ enum Focus {
 
 [![Follow](https://img.shields.io/github/followers/clevervi?label=Follow%20for%20updates&style=social)](https://github.com/clevervi)
 
-*🎀 Last updated: December 2024 | 夢を見て (Keep dreaming)*
+*🎀 Last updated: December 2025| 夢を見て (Keep dreaming)*
 
 </div>
 ```
