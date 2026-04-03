@@ -12,7 +12,7 @@
 
 ---
 
-## 🎮 **Tech Stack Arcade** *(solo íconos)*
+## 🎮 **Tech Stack Arcade**
 
 <div align="center">
   
