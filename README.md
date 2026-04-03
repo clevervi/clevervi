@@ -137,9 +137,7 @@ print("💜 Gracias por explorar mi perfil hasta el fondo 💜")
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-clevervi.dev-9d4edd?style=flat-square)](https://clevervi.dev)
   [![GitHub](https://img.shields.io/badge/🐙_GitHub-clevervi-9d4edd?style=flat-square)](https://github.com/clevervi)
-  [![Twitter](https://img.shields.io/badge/🐦_Twitter-@clevervi-ff6b9d?style=flat-square)](https://twitter.com/clevervi)
 
 </div>
 
